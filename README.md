@@ -31,7 +31,7 @@ This organization contains firmware, libraries, and example projects for managin
 
 ### Applications
 
-- [Applications](https://github.com/Vertical-Farming-Mqtt/Applications)
+- [Applications](https://github.com/Vertical-Farming-Mqtt/Applications)  
   Scripts for the application layer of the framework.
 
 
