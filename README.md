@@ -28,6 +28,13 @@ This organization contains firmware, libraries, and example projects for managin
 - [py_mqtt_testing](https://github.com/Vertical-Farming-Mqtt/py_mqtt_testing)  
   Python scripts and Flask dashboard for testing devices, monitoring heartbeats, and controlling actuators via MQTT.
 
+
+### Python / Testing
+
+[Applications](https://github.com/Vertical-Farming-Mqtt/Applications)
+  Scripts for the application layer of the framework.
+
+
 ---
 
 ## Usage
