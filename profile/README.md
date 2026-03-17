@@ -17,6 +17,9 @@ This organization contains firmware, libraries, and example projects for managin
 - [actuator](https://github.com/Vertical-Farming-Mqtt/actuator)  
   Example ESP32 firmware for actuators (pump and light) with MQTT control.
 
+- [relay_module](https://github.com/Vertical-Farming-Mqtt/relay_module)  
+  [ESP32-S3-Relay-6CH](https://www.waveshare.com/wiki/ESP32-S3-Relay-6CH?srsltid=AfmBOopUUEg0JjdeZD1B3i9mHzip_ykhorccoMAEwl7Ohvc5Lx8cSxM5) module firmware for MQTT control.
+
 - [water_level_sensor](https://github.com/Vertical-Farming-Mqtt/water_level_sensor)  
   ESP32 firmware for water level sensor with MQTT reporting.
 
